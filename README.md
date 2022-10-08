@@ -12,3 +12,4 @@ TODO: pick a team nickname
 - Rodrigo Valdez
 - Remington Steele
 - Pavi Rannulu
+- Julia Depill
