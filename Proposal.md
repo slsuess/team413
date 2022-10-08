@@ -2,7 +2,7 @@
 
 #### Team Number: `413`  
 
-#### Team Name: POX fighters    
+#### Team Name: Funky Pox    
   
 #### Your team’s hackathon idea in One sentence:
 ##### `MonkeyPox detection via image`
