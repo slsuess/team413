@@ -5,4 +5,4 @@
 - Samantha Suess
 - Rodrigo Valdez
 - Remington Steele
-- Pavi R
+- Pavi Rannulu
